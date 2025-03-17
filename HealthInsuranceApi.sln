@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthInsuranceApi", "HealthInsuranceApi.csproj", "{A17FA8D4-607A-4282-BD45-33741A7531E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthInsuranceApi.Test", "HealthInsuranceApi.Test\HealthInsuranceApi.Test.csproj", "{5E6AAC3B-0A1B-4761-BFA2-0E29699726E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A17FA8D4-607A-4282-BD45-33741A7531E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A17FA8D4-607A-4282-BD45-33741A7531E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A17FA8D4-607A-4282-BD45-33741A7531E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A17FA8D4-607A-4282-BD45-33741A7531E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E6AAC3B-0A1B-4761-BFA2-0E29699726E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6AAC3B-0A1B-4761-BFA2-0E29699726E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6AAC3B-0A1B-4761-BFA2-0E29699726E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6AAC3B-0A1B-4761-BFA2-0E29699726E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44B45CC4-7E66-4F06-96C0-DC97302CE506}
+	EndGlobalSection
+EndGlobal
